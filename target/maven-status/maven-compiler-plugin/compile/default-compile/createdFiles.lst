@@ -1,0 +1,12 @@
+com\algaworks\curso\jpa2\util\jsf\FacesUtil.class
+com\algaworks\curso\jpa2\modelo\Fabricante.class
+com\algaworks\curso\jpa2\util\cdi\CDIServiceLocator.class
+com\algaworks\curso\jpa2\service\CadastroFabricanteService.class
+com\algaworks\curso\jpa2\dao\FabricanteDAO.class
+com\algaworks\curso\jpa2\util\jpa\TransactionInterceptor.class
+com\algaworks\curso\jpa2\util\cdi\ViewContextExtension.class
+com\algaworks\curso\jpa2\util\jpa\Transactional.class
+com\algaworks\curso\jpa2\controller\CadastroFabricanteBean.class
+com\algaworks\curso\jpa2\service\NegocioException.class
+com\algaworks\curso\jpa2\util\jpa\EntityManagerProducer.class
+com\algaworks\curso\jpa2\util\cdi\ViewScopedContext.class
